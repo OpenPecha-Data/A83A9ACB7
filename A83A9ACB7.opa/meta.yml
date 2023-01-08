@@ -1,0 +1,19 @@
+id: A83A9ACB7
+title: Guru Padma Yoga
+type: translation
+pechas:
+- I685891E5
+- I7A669914
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:12:13.640814
+  last_modified_at: 2023-01-04 12:12:13.640833
+  collections:
+  - Jamyang Khyentse Chökyi Lodrö Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I685891E5/733C: 2EB7
+  I7A669914/2291: 2EB7
